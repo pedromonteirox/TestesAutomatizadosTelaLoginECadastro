@@ -2,7 +2,7 @@
 Teste criado através do curso da Udemy Testes Automatizados - Curso completo com Selenium e Java
 Este teste contém os seguintes elementos
 Produto Builder:
-  Builder criada para automatizar inserção dos produtos
+ Builder criada para automatizar inserção dos produtos
 BasePO:
   Métodos e contrutores para iniciar Page Objects
 ControleDeProdutoPO:
